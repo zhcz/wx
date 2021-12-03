@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /dhadmin*
+Disallow: /magapp*
+Disallow: /Dhfor*
+Disallow: /source*
+Disallow: /uc_server*
